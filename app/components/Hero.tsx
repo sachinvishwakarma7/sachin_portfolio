@@ -38,7 +38,7 @@ export default function Hero() {
 
           <p className="mt-6 text-lg text-gray-700 dark:text-gray-400 max-w-xl">
             I’m <strong>Sachin Vishwakarma</strong>, a React Native, React.js &
-            Next.js developer with <strong>3+ years</strong> of experience
+            Next.js developer with <strong>5+ years</strong> of experience
             building high-quality applications for startups and businesses.
           </p>
 
