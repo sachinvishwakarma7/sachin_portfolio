@@ -78,7 +78,7 @@ export default function Contact() {
             </h3>
 
             <ul className="space-y-4 text-gray-700 dark:text-gray-400">
-              <li>🟢 3+ years experience in real-world applications</li>
+              <li>🟢 5+ years experience in real-world applications</li>
               <li>🟢 Strong in React Native & Next.js</li>
               <li>🟢 Clean code, performance-focused</li>
               <li>🟢 Clear communication & timely delivery</li>
