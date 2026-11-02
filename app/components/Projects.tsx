@@ -3,25 +3,25 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Real-Time Chat App",
+    title: "ChatPro",
     description:
-      "A WhatsApp-like chat application with real-time messaging, user authentication, and dark mode.",
-    tech: ["React Native", "Firebase", "Redux"],
-    link: "#",
+      "A real-time chat and messaging platform featuring Firebase authentication, instant messaging, group conversations, contact management, unread message indicators, and responsive chat interfaces.",
+    tech: ["React", "TypeScript", "Vite", "Firebase", "Firestore"],
+    link: "https://chatpro-ui-ten.vercel.app/app",
   },
   {
-    title: "E-Commerce Platform",
+    title: "MarketPilot AI",
     description:
-      "Full-featured e-commerce app with cart, payments, product listing, and admin dashboard.",
-    tech: ["React", "Next.js", "Node.js"],
-    link: "#",
+      "An AI-powered marketing analytics dashboard featuring campaign performance insights, KPI tracking, interactive data visualizations, and smart marketing recommendations.",
+    tech: ["React", "TypeScript", "Vite", "AI Analytics"],
+    link: "https://marketpilot-ai-ui-nu.vercel.app/",
   },
   {
-    title: "Admin Dashboard",
+    title: "ShopSphere",
     description:
-      "Responsive admin panel with analytics, role-based access, and modern UI components.",
-    tech: ["Next.js", "Tailwind", "REST API"],
-    link: "#",
+      "A modern multi-category e-commerce platform featuring product listings, shopping cart, checkout simulation, order management, inventory tracking, and an admin dashboard.",
+    tech: ["React", "TypeScript", "Vite", "Tailwind CSS"],
+    link: "https://shopsphere-ui-two.vercel.app/",
   },
 ];
 
