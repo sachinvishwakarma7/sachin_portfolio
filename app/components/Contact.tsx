@@ -58,9 +58,11 @@ export default function Contact() {
             Let’s work together
           </h2>
           <p className="mt-4 max-w-2xl mx-auto text-gray-700 dark:text-gray-400">
-            Have a project in mind or looking for a React / React Native
-            developer? I’m open to freelance, full-time, and contract
-            opportunities.
+            Have a project in mind or looking for a Full-Stack Web & Mobile
+            Developer? I'm available to build scalable web applications, mobile
+            apps, and end-to-end digital solutions. I'm open to freelance
+            projects, full-time roles, and contract opportunities. Let's work
+            together to bring your ideas to life!
           </p>
         </motion.div>
 
@@ -78,16 +80,36 @@ export default function Contact() {
             </h3>
 
             <ul className="space-y-4 text-gray-700 dark:text-gray-400">
-              <li>🟢 5+ years experience in real-world applications</li>
-              <li>🟢 Strong in React Native & Next.js</li>
-              <li>🟢 Clean code, performance-focused</li>
-              <li>🟢 Clear communication & timely delivery</li>
+              <li>
+                🟢 5+ Years of Experience building real-world web and mobile
+                applications.
+              </li>
+              <li>
+                🟢 Full-Stack Expertise in React.js, Next.js, React Native, and
+                backend technologies.
+              </li>
+              <li>
+                🟢 Scalable Solutions with clean code, maintainable
+                architecture, and performance optimization.
+              </li>
+              <li>
+                🟢 End-to-End Development from responsive UI development to API
+                and database integration.
+              </li>
+              <li>
+                🟢 Problem-Solving Mindset focused on delivering reliable,
+                user-friendly applications.
+              </li>
+              <li>
+                🟢 Clear Communication & Timely Delivery with a strong
+                commitment to project quality.
+              </li>
             </ul>
 
             <div className="mt-8">
               <p className="text-sm text-gray-500">Email me directly</p>
               <p className="text-lg font-medium text-black dark:text-white">
-                v404464@gmail.com
+                sv743402@gmail.com
               </p>
             </div>
           </motion.div>

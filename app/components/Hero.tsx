@@ -26,31 +26,34 @@ export default function Hero() {
           transition={{ duration: 0.8 }}
         >
           <p className="text-blue-500 font-medium mb-3">
-            Mobile & Web Developer
+            Full-Stack Web & Mobile Developer
           </p>
 
           <h1 className="text-4xl md:text-6xl font-extrabold leading-tight text-black dark:text-white">
-            I build <span className="text-blue-500">fast</span>,{" "}
+            I build <span className="text-blue-500">modern</span>,{" "}
             <span className="text-purple-500">scalable</span>
             <br />
-            mobile & web apps
+            web & mobile solutions
           </h1>
 
           <p className="mt-6 text-lg text-gray-700 dark:text-gray-400 max-w-xl">
-            I’m <strong>Sachin Vishwakarma</strong>, a React Native, React.js &
-            Next.js developer with <strong>5+ years</strong> of experience
-            building high-quality applications for startups and businesses.
+            I’m <strong>Sachin Vishwakarma</strong>, a{" "}
+            <strong>Full-Stack Web & Mobile Application Developer</strong>{" "}
+            specializing in React.js, Next.js, React Native, and modern backend
+            technologies, with <strong>5+ years of experience</strong> building
+            scalable, high-performance digital solutions for startups and
+            businesses.
           </p>
 
           <div className="mt-8 flex gap-4 flex-wrap">
             <a
               href="#projects"
               className="
-                px-6 py-3 rounded-lg font-medium
-                bg-blue-500 text-white
-                hover:bg-blue-600
-                transition
-              "
+        px-6 py-3 rounded-lg font-medium
+        bg-blue-500 text-white
+        hover:bg-blue-600
+        transition
+      "
             >
               View Projects
             </a>
@@ -58,12 +61,12 @@ export default function Hero() {
             <a
               href="#contact"
               className="
-                px-6 py-3 rounded-lg font-medium
-                border border-gray-300 dark:border-gray-700
-                text-black dark:text-white
-                hover:bg-gray-100 dark:hover:bg-gray-900
-                transition
-              "
+        px-6 py-3 rounded-lg font-medium
+        border border-gray-300 dark:border-gray-700
+        text-black dark:text-white
+        hover:bg-gray-100 dark:hover:bg-gray-900
+        transition
+      "
             >
               Hire Me
             </a>
@@ -100,17 +103,33 @@ export default function Hero() {
                 <li className="flex items-center gap-3 text-gray-800 dark:text-gray-200">
                   ⚛️ <span>React.js / Next.js</span>
                 </li>
+
                 <li className="flex items-center gap-3 text-gray-800 dark:text-gray-200">
-                  📱 <span>React Native</span>
+                  📱 <span>React Native / Expo</span>
                 </li>
+
                 <li className="flex items-center gap-3 text-gray-800 dark:text-gray-200">
-                  🎨 <span>UI/UX Design (Figma)</span>
+                  🧠 <span>JavaScript / TypeScript</span>
                 </li>
+
                 <li className="flex items-center gap-3 text-gray-800 dark:text-gray-200">
-                  🧠 <span>TypeScript</span>
+                  🎨 <span>Tailwind CSS / Responsive UI</span>
                 </li>
+
                 <li className="flex items-center gap-3 text-gray-800 dark:text-gray-200">
-                  🔥 <span>Firebase & Node.js</span>
+                  🔥 <span>Firebase / Firestore</span>
+                </li>
+
+                <li className="flex items-center gap-3 text-gray-800 dark:text-gray-200">
+                  🗄️ <span>Redux Toolkit / State Management</span>
+                </li>
+
+                <li className="flex items-center gap-3 text-gray-800 dark:text-gray-200">
+                  🚀 <span>Vite / Git / Vercel</span>
+                </li>
+
+                <li className="flex items-center gap-3 text-gray-800 dark:text-gray-200">
+                  🖌️ <span>UI/UX Design (Figma)</span>
                 </li>
               </ul>
             </div>

@@ -43,20 +43,27 @@ export default function About() {
             </h3>
 
             <p className="text-gray-700 dark:text-gray-400 leading-relaxed">
-              I specialize in building <strong>mobile applications</strong>{" "}
-              using React Native and <strong>modern web apps</strong> with
-              React.js and Next.js. With over{" "}
-              <strong>3 years of experience</strong>, I’ve worked on real-world
-              projects including chat applications, e-commerce platforms, and
-              admin dashboards.
+              I'm a{" "}
+              <strong>Full-Stack Web & Mobile Application Developer</strong>
+              specializing in building modern, scalable applications using
+              React.js, Next.js, React Native, and backend technologies. With
+              over <strong>5+ years of experience</strong>, I've worked on
+              real-world projects including real-time chat applications,
+              e-commerce platforms, AI-powered analytics dashboards, and admin
+              management systems.
             </p>
 
             <p className="mt-4 text-gray-700 dark:text-gray-400 leading-relaxed">
-              I focus on <strong>performance</strong>, clean architecture, and
-              creating interfaces that users genuinely enjoy using.
+              I focus on{" "}
+              <strong>
+                clean architecture, performance optimization, and scalable
+                solutions
+              </strong>
+              . From crafting responsive user interfaces to integrating APIs,
+              databases, and backend services, I enjoy turning ideas into
+              reliable digital products that deliver great user experiences.
             </p>
           </motion.div>
-
           {/* RIGHT – Stats Cards */}
           <motion.div
             initial={{ opacity: 0, x: 40 }}
